@@ -2,6 +2,8 @@
 
 Floats the panel while not viewing the Overview.
 
+![image](https://github.com/kaulshashank/gnome-floating-panel/assets/29977318/1947d2ad-2b80-4d89-a209-3a6d34c2c997)
+
 To customize color and opacity, you can change `background-color` in `stylesheet.css`.
 
 ## How to install
