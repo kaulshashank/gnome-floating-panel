@@ -1,0 +1,9 @@
+{
+  "description": "Floats the panel (fork of: https://github.com/Aylur/gnome-shell-extension-floating-panel)",
+  "name": "Floating Panel",
+  "shell-version": [
+    "45"
+  ],
+  "url": "https://github.com/kaulshashank/gnome-floating-panel",
+  "uuid": "floating-panel@kaulsh"
+}
